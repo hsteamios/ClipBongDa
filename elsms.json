@@ -1,0 +1,14 @@
+{
+  "clip_elms": "//table[@id='ctl00_BD_lsOtherClips']//table",
+  "clip_link": "//div[@class='borImg']//a",
+  "clip_image": "//div[@class='borImg']//a//img",
+  "clip_title": "//div[@class='Font_video_title']//a",
+  "clip_date": "//td[3]/div[3]/span",
+  "clip_rate": "//div[@class='Font_video_title']//a",
+  "top_elms": "//table[@id='ctl00_BD_topView_lsPhotoTopView']//table",
+  "top_link": "//div[@class='borImg']//a",
+  "top_image": "//div[@class='borImg']//a//img",
+  "top_title": "//div[@class='Font_video_title']//a",
+  "top_date": "//td[3]/div[3]/span",
+  "top_rate": "//td[3]/div[2]/img"
+}
