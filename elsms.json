@@ -11,6 +11,6 @@
   "top_title": "//div[@class='Font_video_title']//a",
   "top_date": "//td[3]/div[3]/span",
   "top_rate": "//td[3]/div[2]/img",
-  "play_title": "//td[3]/div[2]/img",
-  "play_link": "//td[3]/div[2]/img"
+  "play_title": "//*[@id='ctl00_BD_clipView_clipTitle']",
+  "play_link": "//div[@id='clipView']//iframe"
 }
