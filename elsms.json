@@ -10,5 +10,7 @@
   "top_image": "//div[@class='borImg']//a//img",
   "top_title": "//div[@class='Font_video_title']//a",
   "top_date": "//td[3]/div[3]/span",
-  "top_rate": "//td[3]/div[2]/img"
+  "top_rate": "//td[3]/div[2]/img",
+  "play_title": "//td[3]/div[2]/img",
+  "play_link": "//td[3]/div[2]/img"
 }
