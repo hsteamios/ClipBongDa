@@ -4,13 +4,13 @@
 <array>
 	<dict>
 		<key>phim_link1</key>
-		<string>5</string>
+		<string>link1</string>
 		<key>phim_link2</key>
-		<string>VI</string>
+		<string>link2</string>
 		<key>phim_image1</key>
-		<string>fb1374937336125302</string>
+		<string>image1</string>
 		<key>phim_image2</key>
-		<string>http://storeapp.bhmedia.vn/uploads/ipad/icon-app-cobelolemhd-022655-290514.png</string>
+		<string>image2</string>
 	</dict>
 </array>
 </plist>
